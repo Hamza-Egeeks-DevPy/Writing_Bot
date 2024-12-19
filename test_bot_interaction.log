@@ -1,0 +1,109 @@
+2024-12-13 20:11:58,351 [INFO] ====== WebDriver manager ======
+2024-12-13 20:12:00,533 [INFO] Get LATEST chromedriver version for google-chrome
+2024-12-13 20:12:00,868 [INFO] Get LATEST chromedriver version for google-chrome
+2024-12-13 20:12:01,015 [INFO] Driver [C:\Users\AbuBakar\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-13 20:12:06,125 [INFO] Chrome WebDriver initialized successfully.
+2024-12-13 20:12:14,482 [INFO] Navigated to bot URL: https://chatgpt.com/g/g-6737360a422881909250d42d11f53ea5-614-man-research-proposal-writing-bot
+2024-12-13 20:12:19,492 [INFO] Processing Prompt 1: 'hello' with article_index=2
+2024-12-13 20:12:47,219 [ERROR] Unexpected error while processing prompt 'hello': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+	GetHandleVerifier [0x009534A3+25059]
+	(No symbol) [0x008DCEA4]
+	(No symbol) [0x007BBEC3]
+	(No symbol) [0x0079D93B]
+	(No symbol) [0x0082800F]
+	(No symbol) [0x0083AE49]
+	(No symbol) [0x00821C96]
+	(No symbol) [0x007F3FAC]
+	(No symbol) [0x007F4F3D]
+	GetHandleVerifier [0x00C45613+3113811]
+	GetHandleVerifier [0x00C5A2DA+3199002]
+	GetHandleVerifier [0x00C52AB2+3168242]
+	GetHandleVerifier [0x009F3310+680016]
+	(No symbol) [0x008E57ED]
+	(No symbol) [0x008E2A98]
+	(No symbol) [0x008E2C35]
+	(No symbol) [0x008D5890]
+	BaseThreadInitThunk [0x77AAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77C2809E+286]
+	RtlGetAppContainerNamedObjectPath [0x77C2806E+238]
+
+2024-12-13 20:12:47,228 [ERROR] Failed to take screenshot 'screenshots\unexpected_error_prompt_2.png': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+	GetHandleVerifier [0x009534A3+25059]
+	(No symbol) [0x008DCEA4]
+	(No symbol) [0x007BBEC3]
+	(No symbol) [0x0079D93B]
+	(No symbol) [0x0082800F]
+	(No symbol) [0x0083AE49]
+	(No symbol) [0x00821C96]
+	(No symbol) [0x007F3FAC]
+	(No symbol) [0x007F4F3D]
+	GetHandleVerifier [0x00C45613+3113811]
+	GetHandleVerifier [0x00C5A2DA+3199002]
+	GetHandleVerifier [0x00C52AB2+3168242]
+	GetHandleVerifier [0x009F3310+680016]
+	(No symbol) [0x008E57ED]
+	(No symbol) [0x008E2A98]
+	(No symbol) [0x008E2C35]
+	(No symbol) [0x008D5890]
+	BaseThreadInitThunk [0x77AAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77C2809E+286]
+	RtlGetAppContainerNamedObjectPath [0x77C2806E+238]
+
+2024-12-13 20:12:50,309 [INFO] Processing Prompt 2: 'how are you' with article_index=4
+2024-12-13 20:12:50,312 [ERROR] Unexpected error while processing prompt 'how are you': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+	GetHandleVerifier [0x009534A3+25059]
+	(No symbol) [0x008DCEA4]
+	(No symbol) [0x007BBEC3]
+	(No symbol) [0x0079D93B]
+	(No symbol) [0x0082800F]
+	(No symbol) [0x0083AE49]
+	(No symbol) [0x00821C96]
+	(No symbol) [0x007F3FAC]
+	(No symbol) [0x007F4F3D]
+	GetHandleVerifier [0x00C45613+3113811]
+	GetHandleVerifier [0x00C5A2DA+3199002]
+	GetHandleVerifier [0x00C52AB2+3168242]
+	GetHandleVerifier [0x009F3310+680016]
+	(No symbol) [0x008E57ED]
+	(No symbol) [0x008E2A98]
+	(No symbol) [0x008E2C35]
+	(No symbol) [0x008D5890]
+	BaseThreadInitThunk [0x77AAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77C2809E+286]
+	RtlGetAppContainerNamedObjectPath [0x77C2806E+238]
+
+2024-12-13 20:12:50,322 [ERROR] Failed to take screenshot 'screenshots\unexpected_error_prompt_4.png': Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.140)
+Stacktrace:
+	GetHandleVerifier [0x009534A3+25059]
+	(No symbol) [0x008DCEA4]
+	(No symbol) [0x007BBEC3]
+	(No symbol) [0x0079D93B]
+	(No symbol) [0x0082800F]
+	(No symbol) [0x0083AE49]
+	(No symbol) [0x00821C96]
+	(No symbol) [0x007F3FAC]
+	(No symbol) [0x007F4F3D]
+	GetHandleVerifier [0x00C45613+3113811]
+	GetHandleVerifier [0x00C5A2DA+3199002]
+	GetHandleVerifier [0x00C52AB2+3168242]
+	GetHandleVerifier [0x009F3310+680016]
+	(No symbol) [0x008E57ED]
+	(No symbol) [0x008E2A98]
+	(No symbol) [0x008E2C35]
+	(No symbol) [0x008D5890]
+	BaseThreadInitThunk [0x77AAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77C2809E+286]
+	RtlGetAppContainerNamedObjectPath [0x77C2806E+238]
+
+2024-12-13 20:12:55,541 [INFO] Chrome WebDriver closed.

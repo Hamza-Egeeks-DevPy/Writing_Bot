@@ -1,0 +1,189 @@
+2024-12-13 19:22:54,003 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-13 19:22:54,029 WARNING: * Debugger is active!
+2024-12-13 19:22:54,039 INFO: * Debugger PIN: 439-272-074
+2024-12-13 19:23:17,692 INFO: * Detected change in 'D:\\Bot with updated code using frontend\\selenium_utils.py', reloading
+2024-12-13 19:23:19,837 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-13 19:23:19,865 WARNING: * Debugger is active!
+2024-12-13 19:23:19,875 INFO: * Debugger PIN: 439-272-074
+2024-12-13 19:23:52,459 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-13 19:23:52,512 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-13 19:23:52,532 INFO:[33mPress CTRL+C to quit[0m
+2024-12-13 19:23:52,536 INFO: * Restarting with stat
+2024-12-13 19:23:54,025 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-13 19:23:54,044 WARNING: * Debugger is active!
+2024-12-13 19:23:54,056 INFO: * Debugger PIN: 439-272-074
+2024-12-13 19:24:28,716 INFO: * Detected change in 'D:\\Bot with updated code using frontend\\main.py', reloading
+2024-12-13 19:24:28,810 INFO: * Restarting with stat
+2024-12-13 19:55:08,135 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-13 19:55:08,157 WARNING: * Debugger is active!
+2024-12-13 19:55:08,166 INFO: * Debugger PIN: 439-272-074
+2024-12-13 19:55:22,152 INFO: * Detected change in 'D:\\Bot with updated code using frontend\\selenium_utils.py', reloading
+2024-12-13 19:56:01,665 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-13 19:56:01,715 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-13 19:56:01,715 INFO:[33mPress CTRL+C to quit[0m
+2024-12-13 19:56:01,718 INFO: * Restarting with stat
+2024-12-13 19:56:03,243 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-13 19:56:03,263 WARNING: * Debugger is active!
+2024-12-13 19:56:03,273 INFO: * Debugger PIN: 439-272-074
+2024-12-13 19:56:03,349 INFO:Rendering upload form via GET request.
+2024-12-13 19:56:03,362 INFO:127.0.0.1 - - [13/Dec/2024 19:56:03] "GET /upload HTTP/1.1" 200 -
+2024-12-13 19:56:19,556 INFO: * Detected change in 'D:\\Bot with updated code using frontend\\main.py', reloading
+2024-12-13 19:56:19,636 INFO: * Restarting with stat
+2024-12-13 20:01:02,301 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-13 20:01:02,323 WARNING: * Debugger is active!
+2024-12-13 20:01:02,333 INFO: * Debugger PIN: 439-272-074
+2024-12-13 20:01:25,812 INFO: * Detected change in 'D:\\Bot with updated code using frontend\\main.py', reloading
+2024-12-13 20:22:40,265 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-13 20:22:40,293 WARNING: * Debugger is active!
+2024-12-13 20:22:40,304 INFO: * Debugger PIN: 439-272-074
+2024-12-13 20:22:40,810 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-13 20:22:40,828 WARNING: * Debugger is active!
+2024-12-13 20:22:40,838 INFO: * Debugger PIN: 439-272-074
+2024-12-13 20:22:47,396 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-13 20:22:47,436 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-13 20:22:47,437 INFO:[33mPress CTRL+C to quit[0m
+2024-12-13 20:22:47,440 INFO: * Restarting with stat
+2024-12-13 20:22:48,757 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-13 20:22:48,774 WARNING: * Debugger is active!
+2024-12-13 20:22:48,783 INFO: * Debugger PIN: 439-272-074
+2024-12-13 20:23:09,891 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-13 20:23:09,931 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-13 20:23:09,931 INFO:[33mPress CTRL+C to quit[0m
+2024-12-13 20:23:09,934 INFO: * Restarting with stat
+2024-12-13 20:23:11,210 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-13 20:23:11,228 WARNING: * Debugger is active!
+2024-12-13 20:23:11,237 INFO: * Debugger PIN: 439-272-074
+2024-12-13 20:23:19,576 INFO: * Detected change in 'D:\\Bot with updated code using frontend\\main.py', reloading
+2024-12-16 09:52:34,487 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-16 09:52:34,537 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-16 09:52:34,537 INFO:[33mPress CTRL+C to quit[0m
+2024-12-16 09:52:34,540 INFO: * Restarting with stat
+2024-12-16 09:52:35,914 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-16 09:52:35,933 WARNING: * Debugger is active!
+2024-12-16 09:52:35,943 INFO: * Debugger PIN: 439-272-074
+2024-12-16 09:52:49,115 INFO: * Detected change in 'D:\\Bot with updated code using frontend\\main.py', reloading
+2024-12-16 09:52:49,192 INFO: * Restarting with stat
+2024-12-16 10:32:46,147 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-16 10:32:46,251 WARNING: * Debugger is active!
+2024-12-16 10:32:46,264 INFO: * Debugger PIN: 439-272-074
+2024-12-16 10:32:57,747 INFO:127.0.0.1 - - [16/Dec/2024 10:32:57] "GET /upload HTTP/1.1" 200 -
+2024-12-16 10:33:06,007 INFO:127.0.0.1 - - [16/Dec/2024 10:33:06] "[32mPOST /upload HTTP/1.1[0m" 302 -
+2024-12-16 10:33:06,017 INFO:127.0.0.1 - - [16/Dec/2024 10:33:06] "GET /upload HTTP/1.1" 200 -
+2024-12-16 10:33:24,091 INFO: * Detected change in 'D:\\Bot with updated code using frontend\\main.py', reloading
+2024-12-16 10:52:18,369 INFO:Loaded GPT_BOTS configuration successfully.
+2024-12-16 10:52:18,387 WARNING: * Debugger is active!
+2024-12-16 10:52:18,396 INFO: * Debugger PIN: 439-272-074
+2024-12-16 10:52:21,713 INFO:127.0.0.1 - - [16/Dec/2024 10:52:21] "GET /upload HTTP/1.1" 200 -
+2024-12-16 10:52:28,459 INFO:127.0.0.1 - - [16/Dec/2024 10:52:28] "[32mPOST /upload HTTP/1.1[0m" 302 -
+2024-12-16 10:52:28,469 INFO:127.0.0.1 - - [16/Dec/2024 10:52:28] "GET /upload HTTP/1.1" 200 -
+2024-12-16 10:52:38,393 INFO:Processing bot for code: MN2513 Workplace Learning and Development with URL: https://chatgpt.com/g/g-673f1f602e848191b8a374cb772a0377-mn2513-workplace-learning-and-development
+2024-12-16 10:52:38,394 INFO:====== WebDriver manager ======
+2024-12-16 10:52:40,193 INFO:Get LATEST chromedriver version for google-chrome
+2024-12-16 10:52:40,439 INFO:Get LATEST chromedriver version for google-chrome
+2024-12-16 10:52:40,588 INFO:Driver [C:\Users\AbuBakar\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-16 10:52:40,589 INFO:====== WebDriver manager ======
+2024-12-16 10:52:42,387 INFO:Get LATEST chromedriver version for google-chrome
+2024-12-16 10:52:42,535 INFO:Get LATEST chromedriver version for google-chrome
+2024-12-16 10:52:42,676 INFO:Driver [C:\Users\AbuBakar\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-16 10:52:44,454 INFO:patching driver executable C:\Users\AbuBakar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-12-16 10:52:47,595 INFO:Initialized Chrome WebDriver successfully in visible mode.
+2024-12-16 10:52:49,138 INFO:Navigated to bot URL: https://chatgpt.com/g/g-673f1f602e848191b8a374cb772a0377-mn2513-workplace-learning-and-development
+2024-12-16 10:52:49,139 INFO:Sending Prompt 1 to the bot...
+2024-12-16 10:52:50,695 INFO:Prompt 1 entered.
+2024-12-16 10:52:51,214 INFO:Clicked generate button for Prompt 1.
+2024-12-16 10:52:51,214 INFO:Waiting for response for Prompt 1...
+2024-12-16 10:52:51,254 INFO:Captured response for Prompt 1: ...
+2024-12-16 10:52:51,254 INFO:Waiting for 5 seconds before sending the next prompt...
+2024-12-16 10:52:56,270 INFO:Sending Prompt 2 to the bot...
+2024-12-16 10:52:56,685 INFO:Prompt 2 entered.
+2024-12-16 10:53:23,853 INFO:Clicked generate button for Prompt 2.
+2024-12-16 10:53:23,853 INFO:Waiting for response for Prompt 2...
+2024-12-16 10:53:24,406 INFO:Captured response for Prompt 2: ...
+2024-12-16 10:53:24,406 INFO:Waiting for 5 seconds before sending the next prompt...
+2024-12-16 10:53:29,416 INFO:Sending Prompt 3 to the bot...
+2024-12-16 10:53:29,887 INFO:Prompt 3 entered.
+2024-12-16 10:53:32,176 INFO:Clicked generate button for Prompt 3.
+2024-12-16 10:53:32,176 INFO:Waiting for response for Prompt 3...
+2024-12-16 10:53:34,644 INFO:Captured response for Prompt 3: ...
+2024-12-16 10:53:34,645 INFO:Waiting for 5 seconds before sending the next prompt...
+2024-12-16 10:53:39,651 INFO:Sending Prompt 4 to the bot...
+2024-12-16 10:53:40,099 INFO:Prompt 4 entered.
+2024-12-16 10:53:40,243 INFO:Clicked generate button for Prompt 4.
+2024-12-16 10:53:40,243 INFO:Waiting for response for Prompt 4...
+2024-12-16 10:53:41,506 INFO:Captured response for Prompt 4: ...
+2024-12-16 10:53:41,506 INFO:Waiting for 5 seconds before sending the next prompt...
+2024-12-16 10:53:46,522 INFO:Sending Prompt 5 to the bot...
+2024-12-16 10:53:46,967 INFO:Prompt 5 entered.
+2024-12-16 10:53:51,400 INFO:Clicked generate button for Prompt 5.
+2024-12-16 10:53:51,400 INFO:Waiting for response for Prompt 5...
+2024-12-16 10:53:52,029 INFO:Captured response for Prompt 5: ...
+2024-12-16 10:53:52,029 INFO:Waiting for 5 seconds before sending the next prompt...
+2024-12-16 10:53:57,043 INFO:Sending Prompt 6 to the bot...
+2024-12-16 10:53:57,481 INFO:Prompt 6 entered.
+2024-12-16 10:54:01,949 INFO:Clicked generate button for Prompt 6.
+2024-12-16 10:54:01,949 INFO:Waiting for response for Prompt 6...
+2024-12-16 10:54:02,508 INFO:Captured response for Prompt 6: ...
+2024-12-16 10:54:02,508 INFO:Waiting for 5 seconds before sending the next prompt...
+2024-12-16 10:54:07,585 INFO:127.0.0.1 - - [16/Dec/2024 10:54:07] "POST /upload HTTP/1.1" 200 -
+2024-12-16 10:54:37,171 INFO:127.0.0.1 - - [16/Dec/2024 10:54:37] "GET /upload HTTP/1.1" 200 -
+2024-12-16 11:05:56,822 INFO: * Detected change in 'D:\\Bot with updated code using frontend\\main.py', reloading
+2024-12-16 11:39:22 INFO Loaded GPT_BOTS configuration successfully.
+2024-12-16 11:39:22 WARNING  * Debugger is active!
+2024-12-16 11:39:22 INFO  * Debugger PIN: 439-272-074
+2024-12-16 11:39:56 INFO  * Detected change in 'D:\\Bot with updated code using frontend\\main.py', reloading
+2024-12-16 11:48:58 INFO Loaded GPT_BOTS configuration successfully.
+2024-12-16 11:48:58 WARNING  * Debugger is active!
+2024-12-16 11:48:58 INFO  * Debugger PIN: 439-272-074
+2024-12-16 11:49:10 INFO  * Detected change in 'D:\\Bot with updated code using frontend\\main.py', reloading
+2024-12-16 11:49:12 INFO Loaded GPT_BOTS configuration successfully.
+2024-12-16 11:49:12 WARNING  * Debugger is active!
+2024-12-16 11:49:12 INFO  * Debugger PIN: 439-272-074
+2024-12-16 11:49:33 INFO Loaded GPT_BOTS configuration successfully.
+2024-12-16 11:49:33 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-16 11:49:33 INFO [33mPress CTRL+C to quit[0m
+2024-12-16 11:49:33 INFO  * Restarting with stat
+2024-12-16 11:49:34 INFO Loaded GPT_BOTS configuration successfully.
+2024-12-16 11:49:34 WARNING  * Debugger is active!
+2024-12-16 11:49:34 INFO  * Debugger PIN: 439-272-074
+2024-12-16 11:49:50 INFO  * Detected change in 'D:\\Bot with updated code using frontend\\main.py', reloading
+2024-12-16 11:49:50 INFO  * Restarting with stat
+2024-12-16 11:56:46 INFO Loaded GPT_BOTS configuration successfully.
+2024-12-16 11:56:46 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-16 11:56:46 INFO [33mPress CTRL+C to quit[0m
+2024-12-16 11:56:46 INFO  * Restarting with stat
+2024-12-16 11:56:47 INFO Loaded GPT_BOTS configuration successfully.
+2024-12-16 11:56:48 WARNING  * Debugger is active!
+2024-12-16 11:56:48 INFO  * Debugger PIN: 439-272-074
+2024-12-16 11:56:58 INFO  * Detected change in 'D:\\Bot with updated code using frontend\\main.py', reloading
+2024-12-16 11:56:58 INFO  * Restarting with stat
+2024-12-16 12:54:44 INFO Loaded GPT_BOTS configuration successfully.
+2024-12-16 12:54:44 WARNING  * Debugger is active!
+2024-12-16 12:54:44 INFO  * Debugger PIN: 439-272-074
+2024-12-16 12:55:03 INFO Found matching codes: ['MN2513 Workplace Learning and Development']
+2024-12-16 12:55:03 INFO Processing bot for code: MN2513 Workplace Learning and Development with URL: https://chatgpt.com/g/g-673f1f602e848191b8a374cb772a0377-mn2513-workplace-learning-and-development
+2024-12-16 12:55:03 INFO ====== WebDriver manager ======
+2024-12-16 12:55:05 INFO Get LATEST chromedriver version for google-chrome
+2024-12-16 12:55:05 INFO Get LATEST chromedriver version for google-chrome
+2024-12-16 12:55:06 INFO Driver [C:\Users\AbuBakar\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-16 12:55:06 INFO ====== WebDriver manager ======
+2024-12-16 12:55:08 INFO Get LATEST chromedriver version for google-chrome
+2024-12-16 12:55:08 INFO Get LATEST chromedriver version for google-chrome
+2024-12-16 12:55:08 INFO Driver [C:\Users\AbuBakar\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-16 12:55:10 INFO patching driver executable C:\Users\AbuBakar\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2024-12-16 12:55:11 INFO  * Detected change in 'D:\\Bot with updated code using frontend\\main.py', reloading
+2024-12-16 13:14:18,544 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-16 13:14:18,545 INFO [33mPress CTRL+C to quit[0m
+2024-12-16 13:14:18,549 INFO  * Restarting with stat
+2024-12-16 13:14:20,484 WARNING  * Debugger is active!
+2024-12-16 13:14:20,494 INFO  * Debugger PIN: 439-272-074
+2024-12-16 13:14:37,668 INFO  * Detected change in 'D:\\Bot with updated code using frontend\\main.py', reloading
+2024-12-16 13:14:37,738 INFO  * Restarting with stat
+2024-12-16 13:14:44,854 INFO  * Restarting with stat

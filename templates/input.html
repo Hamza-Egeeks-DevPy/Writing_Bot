@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text Input and Bot Automator</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 50px; 
+            background-color: #f4f4f4; 
+        }
+        .container { 
+            max-width: 800px; 
+            margin: auto; 
+            background: white; 
+            padding: 30px; 
+            border-radius: 10px; 
+            box-shadow: 0 0 10px rgba(0,0,0,0.1); 
+        }
+        .button { 
+            background-color: #4CAF50; 
+            color: white; 
+            padding: 10px 20px; 
+            text-align: center;
+            text-decoration: none; 
+            display: inline-block; 
+            font-size: 16px; 
+            margin: 10px 5px;
+            cursor: pointer; 
+            border: none; 
+            border-radius: 5px; 
+        }
+        .alert { 
+            padding: 20px; 
+            background-color: #36f46f; 
+            color: white; 
+            margin-bottom: 15px; 
+            border-radius: 5px; 
+        }
+        .success { 
+            padding: 20px; 
+            background-color: #4CAF50; 
+            color: white; 
+            margin-bottom: 15px; 
+            border-radius: 5px; 
+        }
+        .text-area { 
+            width: 100%; 
+            height: 400px; 
+            padding: 10px; 
+            border: 1px solid #ccc; 
+            border-radius: 5px; 
+            resize: vertical; 
+            white-space: pre-wrap;
+            overflow-wrap: break-word;
+        }
+        h1, h2, h3 { 
+            text-align: center; 
+        }
+        .matched-codes { 
+            margin-top: 20px; 
+        }
+        .matched-codes ul { 
+            list-style-type: none; 
+            padding: 0; 
+        }
+        .matched-codes li { 
+            background-color: #d4edda; 
+            padding: 10px; 
+            margin-bottom: 5px; 
+            border-radius: 5px; 
+        }
+        a { 
+            color: #007bff; 
+            text-decoration: none; 
+        }
+        a:hover { 
+            text-decoration: underline; 
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Text Input and Bot Automator</h1>
+        <p>Enter text containing keywords that match the bot codes. If matched, the system will display the bot URL, run predefined prompts via Selenium, and provide the responses.</p>
+        
+        <!-- Display Flash Messages -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+          {% if messages %}
+            {% for category, message in messages %}
+              {% if category == 'error' %}
+                <div class="alert">{{ message }}</div>
+              {% elif category == 'success' %}
+                <div class="success">{{ message }}</div>
+              {% else %}
+                <div class="alert">{{ message }}</div>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        {% endwith %}
+        
+        <!-- Text Input Form -->
+        <form method="post">
+            <label for="user_text">Enter your text below:</label><br><br>
+            <textarea name="user_text" id="user_text" class="text-area">{{ request.form.get('user_text', '') }}</textarea><br><br>
+            <button type="submit" class="button">Process</button>
+        </form>
+
+        <!-- Display Matched Codes and Bot URLs -->
+        {% if matched_codes %}
+            <div class="matched-codes">
+                <h2>Matched Keywords and Bot URLs:</h2>
+                <ul>
+                    {% for item in matched_codes %}
+                        <li><strong>{{ item.code }}</strong>: <a href="{{ item.bot_url }}" target="_blank">{{ item.bot_url }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+        {% endif %}
+        
+        <!-- Display Combined Responses -->
+        {% if combined_text %}
+            <h2>Generated Content:</h2>
+            <textarea class="text-area" readonly>{{ combined_text }}</textarea><br><br>
+        {% endif %}
+        
+        <!-- Download Link -->
+        {% if download_link %}
+            <a href="{{ url_for('download_file', filename=download_link) }}" class="button">Download Word Document</a>
+        {% endif %}
+    </div>
+</body>
+</html>

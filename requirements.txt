@@ -1,0 +1,6 @@
+Flask
+selenium
+undetected-chromedriver
+webdriver-manager
+python-docx
+pdfminer.six
